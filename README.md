@@ -1,4 +1,4 @@
-# job-radar
+# freelance-ops
 
 I look for freelance work by opening five job boards every morning and
 reading the listings by hand. This is the script that does it for me.

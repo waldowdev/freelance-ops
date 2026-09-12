@@ -15,7 +15,8 @@ Sources: Remotive, Arbeitnow (RemoteOK, Himalayas, Jobicy later).
 ## Run
 
     python -m venv .venv
-    .venv\Scripts\activate
+    .venv\Scripts\activate        # Windows
+    source .venv/bin/activate     # Mac / Linux
     pip install -r requirements.txt
     python -m src.main
 

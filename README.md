@@ -8,7 +8,7 @@ A freelance back office that runs itself: pulls jobs from open job APIs, filters
 
 ## Stack
 
-Python 3.12 · `httpx` · `sqlite3` · GitHub Actions · Telegram Bot API · Claude API. No framework.
+Python 3.14 · `httpx` · `sqlite3` · GitHub Actions · Telegram Bot API · Claude API. No framework.
 
 Sources: Remotive, Arbeitnow (RemoteOK, Himalayas, Jobicy later).
 
